@@ -1,17 +1,12 @@
-# Evolution Aquerium
+# Aquerium
 
-Check out [Evolution Aquerium case study](https://anuraghazra.github.io/case-studies/evolution-aquerium).
+
 
 [![](https://img.shields.io/github/license/anuraghazra/EvolutionAquerium.svg)](https://github.com/anuraghazra/EvolutionAquerium/blob/master/LICENSE)
 [![](https://img.shields.io/github/stars/anuraghazra/EvolutionAquerium.svg)](https://github.com/anuraghazra/EvolutionAquerium)
 
 ![](https://img.shields.io/badge/flocking-behavior-orange.svg)
 ![](https://img.shields.io/badge/Creative-Coding-ff69b4.svg)
-
-
-<a href="https://anuraghazra.github.io/EvolutionAquerium">Try Out The demo</a>
-
-![Craig Reynold's](/src/screenshot.png)
 
 Check-out [DevEnv](https://github.com/anuraghazra/EvolutionAquerium/tree/devEnv) Branch for Beta Optimization and Development which includes Refactored Code and EcoSystem.js Class to manage Creatures and Easy-to-use API for making new Agents.
 
@@ -96,9 +91,3 @@ and i used **`defineFear()`** function to avoid every poison and Predator.
 
 <!-- ## Small, Little, Slow, Fast, Big Creatures With Simple Flocking System and Steering Behaviours
  -->
-### Have Fun Watching Them All Day
-
-### Try To Contact Me
-I AM A PROUD INDIAN.
-* hazru.anurag@gmail.com
-Made with :heart: and JavaScript
